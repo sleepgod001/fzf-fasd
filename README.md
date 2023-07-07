@@ -36,6 +36,9 @@ zplug "wookayin/fzf-fasd"
 
 or use your favorite plugin manager.
 
+TODO
+-------------
+* fix `v` bug
 
 See Also
 --------
